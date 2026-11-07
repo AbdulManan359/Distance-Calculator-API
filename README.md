@@ -29,6 +29,6 @@ Add these values as a query Parameters with the endpoint "/getdistance". And thu
                 "Listening on Port: 3000"
 - Now make a **GET** request on the following link:<br>
             "http://localhost:3000/getdistance?startLatitude=[v1]&startLongitude=[v2]&endLatitude=[v3]&endLongitude=[v4]" <br>
-  Put the values of each latitudes and longitude of starting and ending points in geographical coordinates. ==Note== The coordinates should be in degrees.
+  Put the values of each latitudes and longitude of starting and ending points in geographical coordinates. `Note` The coordinates should be in degrees.
 - And after the request, you will get the calculated distance as a result.
   
